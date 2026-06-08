@@ -32,3 +32,4 @@ No external dependencies or `pip install` required! Just make sure you have Pyth
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/YOUR_GITHUB_USERNAME/hangman-gui-pro.git](https://github.com/YOUR_GITHUB_USERNAME/hangman-gui-pro.git)
+2. You can see the demo video aslo to see how it works.

@@ -4,6 +4,9 @@ A sleek, interactive, and feature-rich desktop Hangman game built from scratch u
 
 Developed as part of my **BCA Data Science / Internship Task 1**.
 
+## Project Persentation & Architecture 
+Click here to view presentation :-> https://jaiveer189.github.io/CodeAlpha_Hangman-Game/persentation.html
+
 ---
 
 ## 🚀 Features
